@@ -1,0 +1,15 @@
+*{
+background-image: url('0.jpg');
+}
+a:hover {
+background-color: white;
+  transition: background-color 0.5s;
+}
+*{
+
+font-family: cursive;
+}
+a{
+  background-color: white;
+  font-size:35px;
+}
